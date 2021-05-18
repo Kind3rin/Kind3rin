@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Luca
+- 👋 Hi, I’m Luca!
 - 👀 I’m interested in Java Developing and Sql.
-- 🌱 I’m currently learning Kubernetes, Android Studio and Kotlin
+- 🌱 I’m currently learning Kubernetes, Android Studio and Kotlin.
 - 💞️ I’m looking to collaborate on Cloud and Mobile APP.
 - 📫 How to reach me:
 
